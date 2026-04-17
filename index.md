@@ -13,3 +13,11 @@ This domain serves as a centralized repository for:
 * **Industry Analysis:** Observations on the evolving threat landscape facing the EdTech sector.
 
 *Further documentation, publications, and strategic guidance will be deployed sequentially.*
+
+<style>
+  /* Terminate GitHub Button Visibility */
+  nav, .btn, .button, .fork { display: none !important; }
+  
+  /* Terminate Footer Visibility */
+  footer, .footer, #footer { display: none !important; }
+</style>

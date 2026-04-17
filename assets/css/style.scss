@@ -1,0 +1,9 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Systemic Footer Termination */
+footer { display: none !important; }
+
+/* Systemic Button Termination */
+#downloads { display: none !important; }

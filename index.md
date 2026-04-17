@@ -1,5 +1,4 @@
-# Securing the Intersection of Theory and Practice
-
+# The Intersection of Theory and Practice
 
 Welcome to the primary site of Dr. Steven Walton.
 

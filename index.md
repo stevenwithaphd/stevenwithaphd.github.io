@@ -1,6 +1,7 @@
 # Securing the Intersection of Theory and Practice
 
-Welcome to the primary digital locus of Dr. Steven Walton.
+
+Welcome to the primary site of Dr. Steven Walton.
 
 As a Senior Cybersecurity Manager, I lead a team dedicated to defending the critical network infrastructure of research and education institutions across the state. My operational focus is grounded in strategic risk management, threat mitigation, and the realities of defending SLED environments operating under strict resource constraints.
 

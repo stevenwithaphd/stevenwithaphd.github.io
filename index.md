@@ -12,8 +12,7 @@ This domain serves as a centralized repository for:
 * **Operational Frameworks:** Translating high-level risk management theory into tactical deployments for small technical teams.
 * **Industry Analysis:** Observations on the evolving threat landscape facing the EdTech sector.
 
-*Further documentation, publications, and strategic guidance will be deployed sequentially.*
-
+*Further documentation, publications, and strategic guidance will be deployed sequentially.* 
 
 <style>
   /* Terminate GitHub Button Visibility */
